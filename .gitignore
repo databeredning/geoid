@@ -1,0 +1,5 @@
+geoid-hm
+*.csv
+*.o
+*.x
+*.txt
